@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*My Profile*
+
+**Anish Panthi**
+__This will also be bold__
+
+_I am a Java Programmer_
